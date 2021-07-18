@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Banner Styles */
+.carousel-item{
+    background-color: #FEEAE9;
+}
+
+.common-button{
+   background-color: #FF4891;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 5px;
+   color: #fff;
+}
+
+/* Categories Card Styles */
+
+.col1, .col2, .col3{
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px;
+}
+
+.col1{
+    background-color: #F8A521;
+}
+
+.col2{
+    background-color: #FF1772;
+}
+
+.col3{
+    background-color: #241ED5;
+}
+
+/* Shoes Section Styles */
+
+.card{
+    box-shadow: 0 10px 10px gray;
+}
+
+/*---------------------------------------
+     Subscribe 
+---------------------------------------*/
+
+.subscribe{
+    background-color: #FEEAE9;
+   border-radius: 10px;
+}
+
+.subscribe input{
+    height: 35px;
+    width: 220px;
+    border: 1px solid gray;
+    text-indent: 5px;
+}
